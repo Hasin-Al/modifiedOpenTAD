@@ -50,6 +50,10 @@ cd OpenTAD
 !pip install mmcv-lite==2.0.0
 !mim install mmaction2==1.1.0
 ```
+```bash
+!pip install mmengine wandb scipy einops pandas tqdm ninja imgaug pytorchvideo
+!pip install numpy gdown
+```
 
 ---
 
