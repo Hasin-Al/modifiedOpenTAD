@@ -26,12 +26,16 @@ git clone <your-forked-repo-url>
 cd OpenTAD
 ```
 
-### 2. Prepare Data
+### 2. Prepare Data and Upload Pretrained Weight 
 
 - Add your videos in:  
   `OpenTAD/data/thumos-14/raw_data/videos/`
 - Add your THUMOS annotations in:  
   `OpenTAD/data/thumos-14/annotations/`
+- Add your Pretrained weight in:
+  `OpneTAD/pretrained/`
+- Add your videomae weight in:
+  `openTAD/pretrained/videomae`
 
 ---
 
