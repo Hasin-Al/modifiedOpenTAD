@@ -35,7 +35,7 @@ cd OpenTAD
 - Add your Pretrained weight in:
   `OpneTAD/pretrained/`
 - Add your videomae weight in:
-  `openTAD/pretrained/videomae`
+  `openTAD/pretrained/videomae/`
 
 ---
 
