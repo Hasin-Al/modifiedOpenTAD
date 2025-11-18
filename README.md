@@ -32,10 +32,17 @@ cd OpenTAD
   `OpenTAD/data/thumos-14/raw_data/videos/`
 - Add your THUMOS annotations in:  
   `OpenTAD/data/thumos-14/annotations/`
+  or Chnage your dataset paths @:
+  `OpenTAD/configs/_base_/datasets/thumos-14/e2e_train_trunc_test_sw_256x224x224.py [line 1,2,3]`
 - Add your Pretrained weight in:
   `OpneTAD/pretrained/`
 - Add your videomae weight in:
   `openTAD/pretrained/videomae/`
+  or Chnage your pretrained path @:
+  `OpenTAD/configs/adatad/thumos/e2e_thumos_videomae_s_768x1_160_adapter.py [line 93]`
+
+  `
+  
 
 ---
 
