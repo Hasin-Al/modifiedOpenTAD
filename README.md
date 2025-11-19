@@ -40,6 +40,8 @@ cd OpenTAD
   `openTAD/pretrained/videomae/`
 - Or Chnage your pretrained path @:
   `OpenTAD/configs/adatad/thumos/e2e_thumos_videomae_s_768x1_160_adapter.py [line 93]`
+- Pretrained weight link :
+- ` you will find the pre-trained weight path at the readme file of https://github.com/sming256/OpenTAD/tree/main/configs/adatad`
 
   `
   
